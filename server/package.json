@@ -5,7 +5,7 @@
   "description": "MediCare Express + Mongoose API (RBAC, slot booking, drug-info proxy).",
   "main": "src/server.js",
   "engines": {
-    "node": ">=16 <17"
+    "node": ">22"
   },
   "scripts": {
     "start": "node src/server.js",
